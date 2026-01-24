@@ -8,8 +8,6 @@ npm run deploy
 ## Runtimes
 + 🔥 Cloudflare Workers
 + 🦕 Deno Deploy
-+ ☘  Supabase Edge Functions
-+ ⏰️ Fastly Compute
 
 ## Databases
 + 🌈 Neon
