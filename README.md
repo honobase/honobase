@@ -5,8 +5,8 @@ cd my-backend
 npm run deploy
 ```
 
-## Platforms
-+ 🔥 Cloudflare Workers / Pages
+## Runtimes
++ 🔥 Cloudflare Workers
 + 🦕 Deno Deploy
 + ☘  Supabase Edge Functions
 + ⏰️ Fastly Compute
